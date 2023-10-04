@@ -171,3 +171,11 @@ button {
         font-size: 3.6rem;
     }
 }
+.feat img{
+    aspect-ratio: 3/2;
+    object-fit: "contain";
+
+}
+.feat .rust img{
+    height: 32%;
+}
